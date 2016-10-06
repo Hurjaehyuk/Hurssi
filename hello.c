@@ -2,8 +2,9 @@
 
 int main()
 {
-	printf("Hello!!!!!!!!!!!!1!\n");
-	printf("HaHaddddddd\n");
-	printf("ddddvdvdver");
+	printf("Hello!!!!!!!dgfg#$!!!!!1!\n");
+	printf("HaHadddd$%^gddd\n");
+	printf("ddddvdvdver"\n);
+	pinrtf("asdfddfff\""\n);
 	return 0;
 }
