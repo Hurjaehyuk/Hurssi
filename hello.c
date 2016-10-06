@@ -2,8 +2,8 @@
 
 int main()
 {
-	printf("Hello!!!!!!!!!!!!1!\n");
-	printf("HaHaddddddd\n");
-	printf("ddddvdvdver");
+	printf("Hello!!!@#$%%^$#@^&!!!!!!!!!1!\n");
+	printf("Haddddddd\n");
+	printf("ddddvdv");
 	return 0;
 }
