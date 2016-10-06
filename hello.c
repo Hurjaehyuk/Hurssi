@@ -2,9 +2,6 @@
 
 int main()
 {
-	printf("Hello!!!@#$%%^$#@^&!!!!!!!!!1!\n");
-	printf("Haddddddd\n");
-	printf("ddddvdv");
-	printf("\n\n\n\n\n");
+	printf("Hi I'm clone\n");
 	return 0;
 }
